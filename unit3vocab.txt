@@ -1,0 +1,17 @@
+Antibody = a y shaped protein produced by white blood cells, will bind to antigen
+Antigen = surface protein that acts as a marker (name tag)
+White Blood Cell = a type of cell in the immune response that helps attack foreign bodies
+Homeostasis = a state in which a living thing functions best
+feedback look = a system in which information is received, which causes a reaction to help a living system
+positive feedback loop = the stimulus is increase(Child birth)
+Negative feedback loop = the stimulus is decreased, or counter acted to return to a set point(shivering to warm up in a response to being cold)
+Thermoregulation = maintaining internal temperature
+Disease = anything that can cause sickness in a human
+Parasite = a type of organism that relies on a host, taking away essential nutrients, can cause sickness
+Protozoan = a type of single celled  eukaryotic organisms that can cause Disease
+Fungus = a type of organism that can cause disease (mushrooms, mold)
+Virus = a non-living thing that can cause Disease
+Bacteria = a simple prokaryotic cell that can call Disease
+Pathogen = any thing that can cause Disease
+First line of Defense = general response by a living thing to try to destroy an foreign matter(the skin)
+Second Line of Defense = something
